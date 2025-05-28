@@ -1,0 +1,38 @@
+example 1:
+["Bread", "Milk", "Diaper"]
+["Bread", "Diaper", "Beer", "Eggs"]
+["Milk", "Diaper", "Beer", "Coke"]
+["Bread", "Milk", "Diaper", "Beer"]
+["Bread", "Milk", "Diaper", "Coke"]
+
+
+example 2:
+["A", "B"]
+["B", "D"]
+["B", "C"]
+["A", "B", "D"]
+["A", "C"]
+["B", "C"]
+["A", "C"]
+["A", "B", "C", "E"]
+["A", "B", "C"]
+ 
+
+example 3:
+["F", "M", "B", "E"]
+["O", "F", "E"]
+["O", "A", "H", "S"]
+["D", "B", "F", "E"]
+["D", "A", "H", "S"]
+["O", "M", "E"]
+["O", "A", "D", "H", "S"]
+
+ or 
+
+["Finance", "Market", "budget", "economy"]
+["Opening", "finance", "economy"]
+["Opening", "assembly", "handball", "sport"]
+["Director", "budget", "finance", "economy"]
+["Director", "assembly", "handball", "sport"]
+["Opening", "market", "economy"]
+["Opening", "assembly", "director", "handball", "sport"]
